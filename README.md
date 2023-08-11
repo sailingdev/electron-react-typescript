@@ -10,8 +10,6 @@ A minimal secure boilerplate for writing Desktop Applications using [Electron](h
 
 # Custom Electron Window Titlebar & Menus etc.
 
-This project includes [electron-window](https://github.com/darkhorse07232020/electron-window) for creating custom window components.
-
 **Following are the list of features it provides :**
 
 - Custom Titlebar for Electron Window.
